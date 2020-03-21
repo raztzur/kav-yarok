@@ -1,0 +1,22 @@
+html, body {
+	padding-top: 2em;
+	text-align: right;
+	width: 90%;
+	margin: 0 auto;
+
+}
+
+@font-face {
+    font-family: 'rutz';
+    src: url('font/rutz_oemedpro-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+h1{
+	font-size:48px;
+	color: red;
+	font-family: 'rutz';
+}
