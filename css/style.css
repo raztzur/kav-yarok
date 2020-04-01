@@ -24,6 +24,7 @@ div {
 
 .melink:hover+.meimg {
   display: block;
+  color: green;
 }
 
 .beatles:hover+.meimg {
