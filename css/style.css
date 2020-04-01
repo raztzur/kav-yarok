@@ -26,7 +26,7 @@ div {
   display: block;
 }
 
-.word:hover+.meimg {
+.beatles:hover+.meimg {
   display: block;
 }
 
