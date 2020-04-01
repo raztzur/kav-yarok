@@ -29,7 +29,6 @@ div {
 
 .beatles:hover+.meimg {
   display: block;
-  color: green;
 }
 
 html, body {
